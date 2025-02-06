@@ -39,7 +39,4 @@ pip install flask flask_cors face_recognition opencv-python python-ffmpeg imagei
 python app.py
 ```
 
-chown -R rsk:rsk public
-sudo chmod -R 755 /var/www/nginx-default/
 
-python3 -m pip install flask[async]
